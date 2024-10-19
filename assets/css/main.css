@@ -2171,12 +2171,15 @@ input, select, textarea {
 
 	.wrapper {
 		background: #fff;
-		height: 100vh;
+		height: 40vh;
 	}
 
 		.wrapper.style2 {
 			padding-top: 0;
 
+		}
+		.style1{
+			height: 100vh;
 		}
 
 /* Header */
